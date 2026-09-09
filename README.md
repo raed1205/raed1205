@@ -1,5 +1,5 @@
 <h1 align="center">Raed Meddeb</h1>
-<h3 align="center">Business Intelligence Student @ ESB (Esprit School of Business) | Seeking a PFE / End-of-Study Internship</h3>
+<h3 align="center">Business Intelligence Student at ESB (Esprit School of Business) | Seeking a PFE / End-of-Study Internship</h3>
 
 <p align="center">
   Final-year Business Computing & Business Intelligence student with experience building end-to-end data pipelines, database architectures, and interactive Power BI dashboards. Seeking a Data / BI Analyst PFE internship.
@@ -51,7 +51,6 @@
 **Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -91,7 +90,7 @@
 
 ### Languages
 
-`Arabic (Native)` · `English (Fluent)` · `French (Fluent)` · `Spanish (Basic)`
+`Arabic (Native)` · `English (Fluent)` · `French (Fluent)` · `Spanish (Basic notions)`
 
 ---
 
